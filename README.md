@@ -3,6 +3,13 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SardarZiyatkhanov.SardarZiyatkhanov" alt="visitors"/>
 </p>
 
+<!-- Typing effect -->
+<div align="center">
+  <a href="https://playarm.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&width=480&lines=Hello%2C+World!;I'm+Sardar+Ziyatkhanov;Embedded+%26+Full-Stack+Developer;Building+PlayARM+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
 <h1 align="center">Sardar Ziyatkhanov</h1>
 
 <p align="center">
@@ -18,6 +25,19 @@
   <a href="mailto:sardarziyatxanov2@gmail.com">Email</a> ·
   Baku, Azerbaijan
 </p>
+
+---
+
+## 👋 About Me
+
+<img width="40%" align="right" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+
+- 🎓 B.Sc. EEE Graduate, ADA University, Baku (2025);
+- 💼 Deputy Director of IT & Cybersecurity @ Global Service Catering LLC;
+- 📖 Co-author of *An Introduction to Computer Architecture: RISC ARM32/64* (ADA University Press, 2025);
+- 🏅 ISO 9001:2015 Lead Auditor;
+- 🌱 Currently exploring embedded systems, FPGA design, and full-stack web development;
+- 📫 Reach me at [sardarziyatxanov2@gmail.com](mailto:sardarziyatxanov2@gmail.com);
 
 ---
 
@@ -122,4 +142,12 @@ Verilog/Quartus FPGA labs + final vending machine project: combinational logic, 
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SardarZiyatkhanov&theme=default&hide_border=true"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SardarZiyatkhanov/SardarZiyatkhanov/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SardarZiyatkhanov/SardarZiyatkhanov/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SardarZiyatkhanov/SardarZiyatkhanov/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
