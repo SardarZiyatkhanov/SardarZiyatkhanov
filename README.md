@@ -43,10 +43,10 @@ Interactive ARM32/64 learning platform with Duolingo-style gamification.
 
 ---
 
-### [AzCore](https://github.com/SardarZiyatkhanov/azcore) — Web Marketplace for Boutiques
-> Commercial project
+### [AzCore](https://github.com/SardarZiyatkhanov/azcore) — E-Commerce Demo for a Perfumery Store
+> Demo project
 
-Multi-vendor marketplace platform for Azerbaijani boutiques.
+E-commerce storefront demo built for a perfumery brand.
 
 - **Stack:** Next.js · TypeScript · Firebase
 - **Status:** 🟡 In development
