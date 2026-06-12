@@ -1,16 +1,47 @@
-## Hi there 👋
+# Sardar Ziyatkhanov
 
-<!--
-**SardarZiyatkhanov/SardarZiyatkhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Electrical and Electronics Engineering Student**
 
-Here are some ideas to get you started:
+Interested in embedded systems, digital logic design, and FPGA development. I work hands-on with microcontrollers and HDL-based hardware design, from low-level GPIO and power management to BLE communication and digital circuit implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-blue?style=flat-square)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Zephyr](https://img.shields.io/badge/-Zephyr%20RTOS-darkred?style=flat-square)
+![Quartus](https://img.shields.io/badge/-Quartus%20Prime-darkblue?style=flat-square)
+![ModelSim](https://img.shields.io/badge/-ModelSim-orange?style=flat-square)
+
+---
+
+## Featured Projects
+
+### [Microcontrollers: Interface and Programming](https://github.com/SardarZiyatkhanov/Microcontrollers-Interface-and-Programming)
+STM32, Arduino, and nRF52840 BLE labs — GPIO control, low-power modes (Sleep/Stop/Standby), UART communication, and BLE advertising/GATT services.
+
+### [Intro to FPGA Design](https://github.com/SardarZiyatkhanov/Intro-to-FPGA-Design)
+Verilog/Quartus FPGA labs and a final vending machine project — combinational logic, multiplexers/decoders, 7-segment displays, counters, and a sequence-detector state machine.
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SardarZiyatkhanov&show_icons=true&theme=default" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SardarZiyatkhanov&layout=compact&theme=default" alt="Top Languages" height="165">
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SardarZiyatkhanov&theme=default" alt="GitHub Streak">
+</p>
+
+---
+
+## Contact
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sardarziyatxanov2@gmail.com)
