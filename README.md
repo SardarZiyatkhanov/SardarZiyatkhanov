@@ -27,6 +27,9 @@ STM32, Arduino, and nRF52840 BLE labs — GPIO control, low-power modes (Sleep/S
 ### [Intro to FPGA Design](https://github.com/SardarZiyatkhanov/Intro-to-FPGA-Design)
 Verilog/Quartus FPGA labs and a final vending machine project — combinational logic, multiplexers/decoders, 7-segment displays, counters, and a sequence-detector state machine.
 
+### [Computer Architecture Textbook](https://github.com/jzburns/csci-comp-arch-book)
+An open-source LaTeX textbook covering ARM assembly, the memory hierarchy, single-/multi-cycle and pipelined microarchitecture, CPU caches, virtual memory, and parallel architectures. I contribute figure design, TikZ diagrams, and layout/typography improvements.
+
 ---
 
 ## GitHub Stats
